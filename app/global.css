@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+@import 'uniwind';
+
+@import 'heroui-native/styles';
+
+@source "../node_modules/heroui-native/lib";
+
+@theme {
+	--font-normal: 'Outfit_400Regular';
+	--font-medium: 'Outfit_500Medium';
+	--font-semibold: 'Outfit_600SemiBold';
+	--font-bold: 'Outfit_700Bold';
+}

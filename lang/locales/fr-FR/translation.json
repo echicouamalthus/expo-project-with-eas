@@ -1,0 +1,10 @@
+{
+	"home": {
+		"welcome": "Bienvenue",
+		"itemCount": "Vous avez {{count}} items"
+	},
+	"profile": {
+		"title": "Votre profil",
+		"editButton": "Modifier"
+	}
+}
